@@ -10,7 +10,7 @@ Dify-workflow/
 └── workflow.yml           # Dify工作流
 ```
 ## 界面展示
-![1750041055980](https://github.com/user-attachments/assets/d9304aaf-4462-46e5-92ad-2da6618fcdb3)
+![1750041561272](https://github.com/user-attachments/assets/4792ab3a-1349-4fcd-90e2-e1360cf0bba5)
 ## 功能介绍
 - 输入一个主题，选择对联字数(五言、七言、九言、十一言)
 - 生成对联后可下载对联图片(.png)
