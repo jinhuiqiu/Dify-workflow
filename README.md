@@ -1,5 +1,6 @@
 # Dify-workflow
-## 基于Dify的Python后端春联生成项目
+## 项目介绍
+基于Dify的Python后端春联生成项目，构建了一个Dify工作流，并且为这个工作流Demo制作了一个简单的前端界面与工作流交互，后端代码使用Python实现，前端代码使用html、css、javascript实现
 ## 项目结构
 ```
 Dify-workflow/
